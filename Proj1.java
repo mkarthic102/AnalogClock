@@ -5,9 +5,6 @@ import java.awt.Font;
  *  Purpose of program: Calculate the end time.
  *  and display the end time on a clock 
  *  given the start time and elapsed minutes from the user
- *  Author Name: Meghana Karthic 
- *  JHED ID: 785802
- *  Date: September 16, 2021
  */
  
 public class Proj1 { 
